@@ -48,6 +48,7 @@ public class AnimalQueue {
         }
     }
 
+
     public Animal peek(){
         if(dog.size()==0){
             return cat.peek();

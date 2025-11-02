@@ -5,6 +5,6 @@ public class Cat extends Animal{
         super(name);
     }
     public String name(){
-        return "Cat:"+name;
+        return "Cat: "+name;
     }
 }

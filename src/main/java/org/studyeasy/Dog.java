@@ -5,6 +5,6 @@ public class Dog extends Animal {
         super(name);
     }
     public String name(){
-        return "Dog: "+name;
+        return "Dog : "+name;
     }
 }

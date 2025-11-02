@@ -10,5 +10,6 @@ public class Main {
         aq.enQueue(new Cat("Reki"));
         System.out.println(aq.deQueueDogs().name());
         System.out.println(aq.deQueueAny().name());
+        System.out.println(aq.deQueueAny().name());
     }
 }
