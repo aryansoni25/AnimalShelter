@@ -21,4 +21,5 @@ public abstract class Animal {
     public boolean isOlderThan(Animal a){
         return this.order<a.getOrder();
     }
+
 }
