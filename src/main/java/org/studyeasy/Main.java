@@ -7,7 +7,7 @@ public class Main {
         aq.enQueue(new Dog("Oscar"));
         aq.enQueue(new Cat("Kari"));
         aq.enQueue(new Dog("Dexter"));
-        aq.enQueue(new Cat("Reki"));
+        aq.enQueue(new Cat("Rekin"));
         System.out.println(aq.deQueueDogs().name());
         System.out.println(aq.deQueueAny().name());
     }
